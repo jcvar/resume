@@ -29,6 +29,13 @@ margin-bottom: 25.4mm
   - Electronics, Arduino and general microcontroller programming with C.
 
 ## Experience
+
+### DoLab Intern, GBS. IBM
+#### feb 2021 - present
+Internship role as DevOps engineer for the _Global Business Services_ unit.
+Planning and development of prototypes and assets to offer innovative business
+solutions for existing enterprise clients.
+
 ## Programming Projects
 ## Education
 ## Languages
