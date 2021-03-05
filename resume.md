@@ -54,8 +54,23 @@ Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
 - Spanish: Native speaker
 - French: Fluent (B2, Alliance Française Bogotá)
 
-## Programming Projects
 ## Personal Projects
+
+### Co-founder. The Insiders Collective
+#### jul 2014 - mar 2020
+Online media community for live shows and music festival promoting.\
+Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
+
+- Community management, BTL activations, copywriting.
+
+### WCA Delegate, Colombia. World Cube Association
+#### apr 2015 - apr 2017
+Organize and manage local Speedcubing competitions and oversee their
+compliance with WCA regulations.
+
+- Remote reporting, event planning, mediation with competitors and general public.
+
+## Programming Projects
 
 <!--- Links -->
 [email]: mailto:notpublic@email.com
