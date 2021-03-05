@@ -36,8 +36,19 @@ Internship role as DevOps engineer for the _Global Business Services_ unit.
 Planning and development of prototypes and assets to offer innovative business
 solutions for existing enterprise clients.
 
-## Programming Projects
 ## Education
+
+### Especialización en Gobierno Electrónico
+#### feb 2021 - dec 2021
+##### Universidad Nacional de Colombia, Sede Bogotá
+Graduate student in Electronic Governance, early admission.
+
+### Ingeniería de Sistemas y Computación
+#### feb 2016 - jun 2021
+##### Universidad Nacional de Colombia, Sede Bogotá
+Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
+
+## Programming Projects
 ## Languages
 ## Personal Projects
 
