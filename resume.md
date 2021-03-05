@@ -48,8 +48,13 @@ Graduate student in Electronic Governance, early admission.
 ##### Universidad Nacional de Colombia, Sede Bogotá
 Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
 
-## Programming Projects
 ## Languages
+
+- English: Proficient (C1, IELTS)
+- Spanish: Native speaker
+- French: Fluent (B2, Alliance Française Bogotá)
+
+## Programming Projects
 ## Personal Projects
 
 <!--- Links -->
