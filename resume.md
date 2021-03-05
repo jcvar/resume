@@ -70,9 +70,22 @@ compliance with WCA regulations.
 
 - Remote reporting, event planning, mediation with competitors and general public.
 
+<!---
 ## Programming Projects
 
+### [GraderUN][graderun]
+#### jul - dec 2020
+_Microservices based application for school management_ (university coursework).
+Developed part of the web frontend with Vue, part of its GraphQL
+API gateway and built one of its underlying microservices in Rust.
+
+### BitBillet
+#### sep - oct 2018
+_Custom built ticketing solution._
+Developed a Node.js application to manage ticket check-in for a 150+ attendee concert.
+-->
 <!--- Links -->
 [email]: mailto:notpublic@email.com
 [github]: https://github.com/jcvar
 [tel]: tel:+571234567890
+[graderun]: https://github.com/graderun "GraderUN on GitHub"
