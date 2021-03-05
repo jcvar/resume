@@ -13,6 +13,21 @@ margin-bottom: 25.4mm
 ###### [+57 123 456 7890][tel]
 
 ## Skills
+
+- Backend development on web server frameworks.
+  - Node.js, Rocket, Spring Boot.
+- Deployment of containerized applications on public cloud platforms.
+  - Docker, Kubernetes, Rancher, AWS, GCP.
+- Data modeling on SQL and document oriented database engines.
+  - MySQL, Postgres, MongoDB, Cloud Firestore.
+- Web development with SPA/PWA frameworks and static site generators.
+  - Vue, Bootstrap, Jekyll, Hugo.
+- Mobile app development for Android and iOS with Flutter.
+- Other programming languages and interests:
+  - Proficiency in Python, experience with Pandas and TensorFlow.
+  - Graphics and interaction design with p5.js and Processing.
+  - Electronics, Arduino and general microcontroller programming with C.
+
 ## Experience
 ## Programming Projects
 ## Education
