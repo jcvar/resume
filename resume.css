@@ -1,0 +1,45 @@
+/*
+* Import after reset.css
+*/
+
+/* * HEADINGS * */
+/* Name */
+h1 {
+    margin-bottom: -0.625em;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+/* Résumé sections */
+h2 {
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    font-family: 'Spectral SC', 'Spectral', serif;
+}
+
+/* Item title */
+h3 {
+    margin-top: 1em;
+    font-weight: 600;
+}
+
+/* Item duration */
+h4 {
+    margin-top: -1em;
+    text-align: right;
+    font-family: 'Spectral SC', 'Spectral', serif;
+}
+
+/* Item subtitle */
+h5 {
+    font-style: italic;
+}
+
+/* Contact details */
+h6 {
+    margin-bottom: 0.25em;
+    text-align: right;
+    font-family: 'IBM Plex Mono', monospace;
+    font-style: italic;
+    font-weight: 200;
+}
