@@ -9,10 +9,12 @@ an intermediate format to apply styling with CSS.
 This template uses markdown headings to select and style the different attributes
 of each item. The details can be found in `resume.css`.
 
-Fonts:
+**Fonts:**
 - Spectral
 - Spectral SC
 - IBM Plex Mono
+
+**Usage:**
 
 To build PDF:
 ```
