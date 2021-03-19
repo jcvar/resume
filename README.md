@@ -27,5 +27,6 @@ To output HTML for debugging and what not:
 
 **TODO:**
 - Make build script.
+- Add responsiveness to CSS.
 
 [practypo]: https://practicaltypography.com/resumes.html
