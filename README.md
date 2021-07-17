@@ -14,6 +14,11 @@ of each item. The details can be found in `resume.css`.
 - Spectral SC
 - IBM Plex Mono
 
+To install with brew:
+```bash
+brew install font-spectral font-ibm-plex
+```
+
 **Usage:**
 
 To build PDF:
