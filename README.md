@@ -27,7 +27,7 @@ pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css
 ```
 To output HTML for debugging and what not:
 ```bash
-pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css
+pandoc resume.md -t html5 -s -o resume.html --css reset.css --css resume.css
 ```
 
 **TODO:**
