@@ -14,6 +14,8 @@ of each item. The details can be found in `resume.css`.
 - Spectral SC
 - IBM Plex Mono
 
+Fonts are loaded directly from Google Fonts, usage of local fonts has a small
+bug in the weight selection.
 To install with brew:
 ```bash
 brew install font-spectral font-ibm-plex
@@ -31,6 +33,7 @@ pandoc resume.md -t html5 -s -o resume.html --css reset.css --css resume.css
 ```
 
 **TODO:**
+- Migrate to weasyprint
 - Make build script.
 - Add responsiveness to CSS.
 
