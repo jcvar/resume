@@ -22,12 +22,12 @@ brew install font-spectral font-ibm-plex
 **Usage:**
 
 To build PDF:
-```
-% pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css
+```bash
+pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css
 ```
 To output HTML for debugging and what not:
-```
-% pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css
+```bash
+pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css
 ```
 
 **TODO:**
