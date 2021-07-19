@@ -32,7 +32,7 @@ margin-bottom: 25.4mm
 
 ### DoLab Intern, GBS. IBM
 #### feb 2021 - present
-Internship role as DevOps engineer for the _Global Business Services_ unit.
+Internship role as DevOps engineer for the Global Business Services unit.
 Planning and development of prototypes and assets to offer innovative business
 solutions for existing enterprise clients.
 
@@ -69,13 +69,13 @@ compliance with WCA regulations.
 
 ### [GraderUN][graderun]
 #### jul - dec 2020
-_Microservices based application for school management_ (university coursework).
+Microservices based application for school management (university coursework).
 Developed part of the web frontend with Vue, part of its GraphQL
 API gateway and built one of its underlying microservices in Rust.
 
 ### BitBillet
 #### sep - oct 2018
-_Custom built ticketing solution._
+Custom built ticketing solution.
 Developed a Node.js application to manage ticket check-in for a 150+ attendee concert.
 -->
 ## Languages
