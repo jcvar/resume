@@ -48,12 +48,6 @@ Graduate student in Electronic Governance, early admission.
 ##### Universidad Nacional de Colombia, Sede Bogotá
 Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
 
-## Languages
-
-- English: Proficient (C1, IELTS)
-- Spanish: Native speaker
-- French: Fluent (B2, Alliance Française Bogotá)
-
 ## Personal Projects
 
 ### Co-founder. The Insiders Collective
@@ -84,6 +78,12 @@ API gateway and built one of its underlying microservices in Rust.
 _Custom built ticketing solution._
 Developed a Node.js application to manage ticket check-in for a 150+ attendee concert.
 -->
+## Languages
+
+- English: Proficient (C1, IELTS)
+- Spanish: Native speaker
+- French: Fluent (B2, Alliance Française Bogotá)
+
 <!--- Links -->
 [email]: mailto:notpublic@email.com
 [github]: https://github.com/jcvar
