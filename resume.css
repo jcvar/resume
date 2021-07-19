@@ -62,16 +62,16 @@ h3 {
     font-weight: 600;
 }
 
-/* Item duration */
+/* Item subtitle */
 h4 {
+    font-style: italic;
+}
+
+/* Item duration */
+h5 {
     margin-top: -1em;
     text-align: right;
     font-family: 'Spectral SC', 'Spectral', serif;
-}
-
-/* Item subtitle */
-h5 {
-    font-style: italic;
 }
 
 /* Contact details */

@@ -30,35 +30,38 @@ margin-bottom: 25.4mm
 
 ## Experience
 
-### DoLab Intern, GBS. IBM
-#### feb 2021 - present
+### IBM
+#### DoLab Intern, GBS.
+##### feb 2021 - present
 Internship role as DevOps engineer for the Global Business Services unit.
 Planning and development of prototypes and assets to offer innovative business
 solutions for existing enterprise clients.
 
 ## Education
 
-### Especialización en Gobierno Electrónico
-#### feb 2021 - dec 2021
-##### Universidad Nacional de Colombia, Sede Bogotá
+### Universidad Nacional de Colombia, Sede Bogotá
+
+#### Especialización en Gobierno Electrónico
+##### feb 2021 - dec 2021
 Graduate student in Electronic Governance, early admission.
 
-### Ingeniería de Sistemas y Computación
-#### feb 2016 - jun 2021
-##### Universidad Nacional de Colombia, Sede Bogotá
+#### Ingeniería de Sistemas y Computación
+##### feb 2016 - jun 2021
 Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
 
 ## Personal Projects
 
-### Co-founder. The Insiders Collective
-#### jul 2014 - mar 2020
+### The Insiders Collective
+#### Co-founder
+##### jul 2014 - mar 2020
 Online media community for live shows and music festival promoting.\
 Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
 
 - Community management, BTL activations, copywriting.
 
-### WCA Delegate, Colombia. World Cube Association
-#### apr 2015 - apr 2017
+### World Cube Association
+#### WCA Delegate, Colombia
+##### apr 2015 - apr 2017
 Organize and manage local Speedcubing competitions and oversee their
 compliance with WCA regulations.
 
