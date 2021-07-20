@@ -28,6 +28,10 @@ margin-bottom: 25.4mm
   - Proficiency in Python, experience with Pandas and TensorFlow.
   - Graphics and interaction design with p5.js and Processing.
   - Electronics, Arduino and general microcontroller programming with C.
+- Languages:
+  - English: Proficient (C1, IELTS)
+  - Spanish: Native speaker
+  - French: Fluent (B2, Alliance Française Bogotá)
 
 ## Experience
 
@@ -80,11 +84,6 @@ API gateway and built one of its underlying microservices in Rust.
 Custom built ticketing solution.
 Developed a Node.js application to manage ticket check-in for a 150+ attendee concert.
 -->
-## Languages
-
-- English: Proficient (C1, IELTS)
-- Spanish: Native speaker
-- French: Fluent (B2, Alliance Française Bogotá)
 
 <!--- Links -->
 [email]: mailto:notpublic@email.com
