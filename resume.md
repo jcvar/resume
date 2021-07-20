@@ -34,8 +34,8 @@ margin-bottom: 25.4mm
 ### IBM
 #### DoLab Intern, GBS.
 ##### feb 2021 - present
-Internship role as DevOps engineer for the Global Business Services unit.
-Planning and development of prototypes and assets to offer innovative business
+- Internship role as DevOps engineer for the Global Business Services unit.
+- Planning and development of prototypes and assets to offer innovative business
 solutions for existing enterprise clients.
 
 ## Education
@@ -44,28 +44,26 @@ solutions for existing enterprise clients.
 
 #### Especialización en Gobierno Electrónico
 ##### feb 2021 - dec 2021
-Graduate student in Electronic Governance, early admission.
+- Graduate student in Electronic Governance, early admission.
 
 #### Ingeniería de Sistemas y Computación
 ##### feb 2016 - jun 2021
-Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
+- Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA.
 
 ## Personal Projects
 
 ### The Insiders Collective
 #### Co-founder
 ##### jul 2014 - mar 2020
-Online media community for live shows and music festival promoting.\
-Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
-
+- Online media community for live shows and music festival promoting.
+- Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
 - Community management, BTL activations, copywriting.
 
 ### World Cube Association
 #### WCA Delegate, Colombia
 ##### apr 2015 - apr 2017
-Organize and manage local Speedcubing competitions and oversee their
+- Organize and manage local Speedcubing competitions and oversee their
 compliance with WCA regulations.
-
 - Remote reporting, event planning, mediation with competitors and general public.
 
 <!---
