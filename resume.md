@@ -8,9 +8,10 @@ margin-bottom: 25.4mm
 ---
 # Juan Camilo Vargas
 
-###### [notpublic@email.com][email]
-###### [github.com/jcvar][github]
-###### [+57 123 456 7890][tel]
+[notpublic@email.com][email]
+•
+[+57 123 456 7890][tel]
+<!-- ###### [github.com/jcvar][github] -->
 
 ## Skills
 
