@@ -54,22 +54,6 @@ solutions for existing enterprise clients
 ##### feb 2016 - jun 2021
 - Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA
 
-## Personal Projects
-
-### The Insiders Collective
-#### Co-founder
-##### jul 2014 - mar 2020
-- Online media community for live shows and music festival promoting
-- Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris
-- Community management, BTL activations, copywriting
-
-### World Cube Association
-#### WCA Delegate, Colombia
-##### apr 2015 - apr 2017
-- Organize and manage local Speedcubing competitions and oversee their
-compliance with WCA regulations
-- Remote reporting, event planning, mediation with competitors and general public
-
 ## Programming Projects
 
 ### [GraderUN][graderun]
@@ -82,6 +66,24 @@ API gateway and built one of its underlying microservices in Rust
 #### Custom built ticketing solution
 ##### sep - oct 2018
 - Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
+
+## Personal Projects
+
+### The Insiders Collective
+#### Co-founder
+##### jul 2014 - mar 2020
+- Online media community for live shows and music festival promoting
+- Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris
+- Community management, BTL activations, copywriting
+
+<!--
+### World Cube Association
+#### WCA Delegate, Colombia
+##### apr 2015 - apr 2017
+- Organize and manage local Speedcubing competitions and oversee their
+compliance with WCA regulations
+- Remote reporting, event planning, mediation with competitors and general public
+-->
 
 [jcvar/resume][resume]
 
