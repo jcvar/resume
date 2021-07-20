@@ -24,6 +24,7 @@ h1, h3 {
 /* Résumé sections, dates */
 h2, h5 {
     font-family: 'Spectral SC', 'Spectral', serif;
+    font-weight: 200;
 }
 
 /* Item subtitle */
