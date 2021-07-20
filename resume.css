@@ -36,7 +36,7 @@ ul li ul li:first-child{
 }
 
 /* Custom bullets */
-li::before {
+li::marker {
     content: '• ';
 }
 
