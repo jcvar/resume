@@ -32,6 +32,11 @@ h4 {
     font-style: italic;
 }
 
+/* Footer */
+p:last-of-type {
+    font-size: 0.5em;
+}
+
 /* Links */
 a {
     color: black;
@@ -60,7 +65,7 @@ li::before {
 
 /* * LAYOUT * */
 /* Name, contact details */
-h1, p:first-of-type {
+h1, p:first-of-type, p:last-of-type {
     text-align: center;
 }
 

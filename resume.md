@@ -83,8 +83,11 @@ API gateway and built one of its underlying microservices in Rust
 ##### sep - oct 2018
 - Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
 
+[jcvar/resume][resume]
+
 <!--- Links -->
 [email]: mailto:notpublic@email.com
 [github]: https://github.com/jcvar
 [tel]: tel:+571234567890
 [graderun]: https://github.com/graderun "GraderUN on GitHub"
+[resume]: https://github.com/jcvar/resume "Résumé on GitHub"
