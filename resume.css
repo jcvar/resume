@@ -17,11 +17,6 @@ a {
     color: black;
 }
 
-/* General text / Item content */
-p {
-    width: 80%;
-}
-
 /* Contact details / links */
 p a {
     font-style: italic;
@@ -43,6 +38,11 @@ ul li ul li:first-child{
 /* Custom bullets */
 li::before {
     content: '• ';
+}
+
+/* * LAYOUT * */
+h1, p:first-of-type {
+    text-align: center;
 }
 
 /* * HEADINGS * */
