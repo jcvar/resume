@@ -11,6 +11,26 @@ body {
     font-weight: 400;
 }
 
+/* Name */
+h1 {
+    font-size: 2em;
+}
+
+/* Name,  Item title */
+h1, h3 {
+    font-weight: 600;
+}
+
+/* Résumé sections, dates */
+h2, h5 {
+    font-family: 'Spectral SC', 'Spectral', serif;
+}
+
+/* Item subtitle */
+h4 {
+    font-style: italic;
+}
+
 /* Contact details / links */
 a {
     color: black;
@@ -33,39 +53,24 @@ li::marker {
 }
 
 /* * LAYOUT * */
+/* Name, contact details */
 h1, p:first-of-type {
     text-align: center;
-}
-
-/* * HEADINGS * */
-
-/* Name */
-h1 {
-    font-size: 2em;
-    font-weight: 600;
 }
 
 /* Résumé sections */
 h2 {
     margin-top: 1.5em;
     margin-bottom: 1em;
-    font-family: 'Spectral SC', 'Spectral', serif;
 }
 
 /* Item title */
 h3 {
     margin-top: 1em;
-    font-weight: 600;
-}
-
-/* Item subtitle */
-h4 {
-    font-style: italic;
 }
 
 /* Item duration */
 h5 {
     margin-top: -1em;
     text-align: right;
-    font-family: 'Spectral SC', 'Spectral', serif;
 }
