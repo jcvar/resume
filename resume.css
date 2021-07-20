@@ -45,11 +45,12 @@ a {
 /* List indentation */
 li {
     margin-left: 0.75em;
+    text-indent: -0.75em;
     line-height: 1.25em;
 }
 
 /* Custom bullets */
-li::marker {
+li::before {
     content: '• ';
 }
 
