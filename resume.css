@@ -22,8 +22,12 @@ p {
     width: 80%;
 }
 
-p a, em {
+/* Contact details / links */
+p a {
     font-style: italic;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 200;
+    line-height: 1.25;
 }
 
 /* List indentation */
@@ -72,12 +76,4 @@ h5 {
     margin-top: -1em;
     text-align: right;
     font-family: 'Spectral SC', 'Spectral', serif;
-}
-
-/* Contact details */
-h6 {
-    font-family: 'IBM Plex Mono', monospace;
-    font-style: italic;
-    font-weight: 200;
-    line-height: 1.25;
 }
