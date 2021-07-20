@@ -70,20 +70,18 @@ solutions for existing enterprise clients.
 compliance with WCA regulations.
 - Remote reporting, event planning, mediation with competitors and general public.
 
-<!---
 ## Programming Projects
 
 ### [GraderUN][graderun]
-#### jul - dec 2020
-Microservices based application for school management (university coursework).
-Developed part of the web frontend with Vue, part of its GraphQL
+#### Microservices based application for school management (university coursework).
+##### jul - dec 2020
+- Developed part of the web frontend with Vue, part of its GraphQL
 API gateway and built one of its underlying microservices in Rust.
 
 ### BitBillet
-#### sep - oct 2018
-Custom built ticketing solution.
-Developed a Node.js application to manage ticket check-in for a 150+ attendee concert.
--->
+#### Custom built ticketing solution.
+##### sep - oct 2018
+- Developed a Node.js application to manage ticket check-in for a 150+ attendee concert.
 
 <!--- Links -->
 [email]: mailto:notpublic@email.com
