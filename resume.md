@@ -8,9 +8,9 @@ margin-bottom: 25.4mm
 ---
 # Juan Camilo Vargas
 
-[notpublic@email.com][email]
+[notpublic@email.com][mailto:notpublic@email.com]
 •
-[+57 123 456 7890][tel]
+[+57 123 456 7890][tel:+571234567890]
 <!-- ###### [github.com/jcvar][github] -->
 
 ## Skills
@@ -87,8 +87,6 @@ compliance with WCA regulations
 [DRAFT][resume]
 
 <!--- Links -->
-[email]: mailto:notpublic@email.com
 [github]: https://github.com/jcvar
-[tel]: tel:+571234567890
 [graderun]: https://github.com/graderun "GraderUN on GitHub"
 [resume]: https://github.com/jcvar/resume "Résumé on GitHub"
