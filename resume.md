@@ -28,10 +28,7 @@ margin-bottom: 25.4mm
   - Proficiency in Python, experience with Pandas and TensorFlow
   - Graphics and interaction design with p5.js and Processing
   - Electronics, Arduino and general microcontroller programming with C
-- Languages:
-  - English: Proficient (C1, IELTS)
-  - Spanish: Native speaker
-  - French: Fluent (B2, Alliance Française Bogotá)
+- Fluent in English and French, native Spanish speaker
 
 ## Experience
 
