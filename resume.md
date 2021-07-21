@@ -36,11 +36,11 @@ margin-bottom: 25.4mm
 ## Experience
 
 ### IBM
-#### DoLab Intern, GBS
+#### DevOps Intern, Global Business Services
 ##### feb 2021 - present
-- Internship role as DevOps engineer for the Global Business Services unit
-- Planning and development of prototypes and assets to offer innovative business
-solutions for existing enterprise clients
+- Participated in the creation and writing of standards for DevOps processes among intern teams
+- Developed a logging solution for audit messages generated in IBM App Connect Enterprise
+- Assisted in the adoption of agile methodologies within an enterprise development team 
 
 ## Education
 
@@ -59,8 +59,8 @@ solutions for existing enterprise clients
 ### [GraderUN][graderun]
 #### Microservices based application for school management (university coursework)
 ##### jul - dec 2020
-- Developed part of the web frontend with Vue, part of its GraphQL
-API gateway and built one of its underlying microservices in Rust
+- Developed part of the web frontend with Vue and part of its GraphQL API gateway
+- Built one of its underlying microservices in Rust
 
 ### BitBillet
 #### Custom built ticketing solution
