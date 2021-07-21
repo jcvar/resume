@@ -16,13 +16,15 @@ margin-bottom: 25.4mm
 ## Skills
 
 - Backend development on web server frameworks.
-  Node.js, Rocket, Spring Boot
+  _Node.js, Rocket, Spring Boot_
 - Deployment of containerized applications on public cloud platforms.
-  Docker, Kubernetes, Rancher, AWS, GCP
-- Data modeling on SQL and document oriented database engines.
-  MySQL, Postgres, MongoDB, Cloud Firestore
+  _Docker, Kubernetes, AWS, GCP_
+- Design of continuous integration and deployment pipelines.
+  _Bash, Jenkins, Ansible_
+- Data modeling on SQL and document oriented databases.
+  _MySQL, Postgres, MongoDB, Cloud Firestore_
 - Web development with SPA/PWA frameworks and static site generators.
-  Vue, Bootstrap, Jekyll, Hugo
+  _Vue, Bootstrap, Jekyll, Hugo_
 - Mobile app development for Android and iOS with Flutter.
 - Other programming languages and interests:
   - Proficiency in Python, experience with Pandas and TensorFlow
@@ -36,7 +38,7 @@ margin-bottom: 25.4mm
 #### DevOps Intern, Global Business Services
 ##### feb 2021 - present
 - Participated in the creation and writing of standards for DevOps processes among intern teams
-- Developed a logging solution for audit messages generated in IBM App Connect Enterprise
+- Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK
 - Assisted in the adoption of agile methodologies within an enterprise development team 
 
 ## Education
