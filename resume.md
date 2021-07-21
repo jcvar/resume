@@ -37,13 +37,13 @@ margin-bottom: 25.4mm
 ### IBM
 #### DevOps Intern, Global Business Services
 ##### feb 2021 - present
-- Participated in the creation and writing of standards for DevOps processes among intern teams
+- Participated in the creation and writing of standards for DevOps processes whitin intern teams
 - Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK
 - Assisted in the adoption of agile methodologies within an enterprise development team 
 
 ## Education
 
-### Universidad Nacional de Colombia, Sede Bogotá
+### Universidad Nacional de Colombia
 
 #### Especialización en Gobierno Electrónico
 ##### feb 2021 - dec 2021
