@@ -84,7 +84,7 @@ compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public
 -->
 
-[jcvar/resume][resume]
+[DRAFT][resume]
 
 <!--- Links -->
 [email]: mailto:notpublic@email.com
