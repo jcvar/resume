@@ -11,7 +11,6 @@ margin-bottom: 25.4mm
 [notpublic@email.com][mailto:notpublic@email.com]
 •
 [+57 123 456 7890][tel:+571234567890]
-<!-- ###### [github.com/jcvar][github] -->
 
 ## Skills
 
@@ -87,6 +86,5 @@ compliance with WCA regulations
 [DRAFT][resume]
 
 <!--- Links -->
-[github]: https://github.com/jcvar
 [graderun]: https://github.com/graderun "GraderUN on GitHub"
 [resume]: https://github.com/jcvar/resume "Résumé on GitHub"
