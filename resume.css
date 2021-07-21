@@ -35,6 +35,7 @@ h4, em {
 /* Footer */
 p:last-of-type {
     font-size: 0.5em;
+    margin-top: 12em;
 }
 
 /* Links */
