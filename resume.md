@@ -8,9 +8,9 @@ margin-bottom: 25.4mm
 ---
 # Juan Camilo Vargas
 
-[notpublic@email.com][mailto:notpublic@email.com]
+[notpublic@email.com](mailto:notpublic@email.com)
 •
-[+57 123 456 7890][tel:+571234567890]
+[+57 123 456 7890](tel:+571234567890)
 
 ## Skills
 
