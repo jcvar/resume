@@ -23,7 +23,7 @@ margin-bottom: 25.4mm
 - Data modeling on SQL and document oriented databases.
   _MySQL, Postgres, MongoDB, Cloud Firestore_
 - Web development with SPA/PWA frameworks and static site generators.
-  _Vue, Bootstrap, Jekyll, Hugo_
+  _Vue, React, Jekyll, Hugo_
 - Mobile app development for Android and iOS with Flutter.
 - Other programming languages and interests:
   - Proficiency in Python, experience with Pandas and TensorFlow
