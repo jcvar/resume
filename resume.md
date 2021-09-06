@@ -34,7 +34,7 @@ margin-bottom: 25.4mm
 ## Experience
 
 ### IBM
-#### DevOps Intern, Global Business Services
+#### DevOps Engineer, Global Business Services
 ##### feb 2021 - present
 - Participated in the creation and writing of standards for DevOps processes within intern teams
 - Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK
