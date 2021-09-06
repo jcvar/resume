@@ -10,6 +10,8 @@ margin-bottom: 25.4mm
 
 [notpublic@email.com](mailto:notpublic@email.com)
 •
+[github.com/jcvar][github]
+•
 [+57 123 456 7890](tel:+571234567890)
 
 ## Skills
