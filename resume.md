@@ -86,5 +86,6 @@ compliance with WCA regulations
 [DRAFT][resume]
 
 <!--- Links -->
+[github]: https://github.com/jcvar "jcvar on GitHub"
 [graderun]: https://github.com/graderun "GraderUN on GitHub"
 [resume]: https://github.com/jcvar/resume "Résumé on GitHub"
