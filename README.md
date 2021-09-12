@@ -26,12 +26,23 @@ brew install font-spectral font-ibm-plex
 To build PDF:
 ```bash
 pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css --strip-comments
-
 ```
+
 To output HTML for debugging and what not:
 ```bash
 pandoc resume.md -t html5 -s -o resume.html --css reset.css --css resume.css --strip-comments
 ```
+
+Alternatively:
+```bash
+make [pdf|html]
+```
+
+To export with date and commit short hash:
+```bash
+make print
+```
+**Warning:** This will perform a `git restore` to clear out personal details from header.
 
 **TODO:**
 - Migrate to weasyprint
