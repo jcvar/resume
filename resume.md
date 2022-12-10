@@ -62,6 +62,7 @@ margin-bottom: 25.4mm
 ##### feb 2016 - jun 2021
 - Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA
 
+<!--
 ## Programming Projects
 
 ### [GraderUN][graderun]
@@ -74,6 +75,7 @@ margin-bottom: 25.4mm
 #### Custom built ticketing solution
 ##### sep - oct 2018
 - Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
+-->
 
 ## Personal Projects
 
