@@ -77,12 +77,19 @@ margin-bottom: 25.4mm
 
 ## Personal Projects
 
+### GitHub Education
+#### GitHub Campus Expert, spring 2021 batch
+##### apr 2021 - present
+- Leadership program to support technical student communities.
+- Assistance in activities of the UNAL competitive programming student group.
+- GitHub Field Day LATAM 2022 team member, Hackcon X scholarship recipient.
+
 ### The Insiders Collective
 #### Co-founder
 ##### jul 2014 - mar 2020
-- Online media community for live shows and music festival promoting
-- Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris
-- Community management, BTL activations, copywriting
+- Online media community for live shows and music festival promoting.
+- Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
+- Community management, BTL activations, copywriting.
 
 <!--
 ### World Cube Association
