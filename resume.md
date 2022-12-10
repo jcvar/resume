@@ -54,7 +54,7 @@ margin-bottom: 25.4mm
 ##### feb 2021 - oct 2021
 - Participated in the creation of guidelines for DevOps processes within intern teams.
 - Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK.
-- Accelerated the adoption of agile methodologies within an enterprise development team for a national bank.
+- Accelerated the adoption of agile methodologies in a consultancy team working for a national bank.
 
 ## Education
 
