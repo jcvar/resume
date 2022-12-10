@@ -68,7 +68,7 @@ margin-bottom: 25.4mm
 
 #### Ingeniería de Sistemas y Computación
 ##### feb 2016 - jun 2021
-- Systems and Computing Engineering undergraduate student. 4.1 / 5.0 GPA
+- Systems and Computing Engineering undergraduate degree. <!-- 4.1 / 5.0 GPA -->
 
 <!--
 ## Programming Projects
