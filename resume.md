@@ -41,12 +41,20 @@ margin-bottom: 25.4mm
 
 ## Experience
 
+### Twilio
+#### Software Engineer, Phone Numbers Team
+##### nov 2021 - present
+- Collaborated in the Numbers API Gateway project, from prototype to release.
+- Enabled the migration of a business critical monolith to a microservice architecture.
+- Delivered core features for request routing and service monitoring.
+- Planned and executed performance, reliability, and endurance testing for production deployment.
+
 ### IBM
 #### DevOps Engineer, Global Business Services
 ##### feb 2021 - oct 2021
-- Participated in the creation and writing of standards for DevOps processes within intern teams
-- Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK
-- Assisted in the adoption of agile methodologies within an enterprise development team 
+- Participated in the creation of guidelines for DevOps processes within intern teams.
+- Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK.
+- Accelerated the adoption of agile methodologies within an enterprise development team for a national bank.
 
 ## Education
 
