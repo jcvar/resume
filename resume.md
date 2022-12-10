@@ -36,7 +36,7 @@ margin-bottom: 25.4mm
 ### Other Skills
 - Proficiency in Python, experience with Pandas and TensorFlow.
 - Graphics and interaction design with p5.js and Processing.
-- Electronics, Arduino, and general microcontroller programming with C.
+- Electronics, Arduino, and microcontroller programming with C.
 - Fluent in English and French, native Spanish speaker.
 
 ## Experience
