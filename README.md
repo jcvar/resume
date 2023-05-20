@@ -9,7 +9,7 @@ an intermediate format to apply styling with CSS.
 This template uses markdown headings to select and style the different attributes
 of each item. The details can be found in `resume.css`.
 
-**Fonts:**
+### Fonts:
 - Spectral
 - Spectral SC
 - IBM Plex Mono
@@ -21,30 +21,18 @@ To install with brew:
 brew install font-spectral font-ibm-plex
 ```
 
-**Usage:**
-
-To build PDF:
-```bash
-pandoc resume.md -t html5 -s -o resume.pdf --css reset.css --css resume.css --strip-comments
-```
-
-To output HTML for debugging and what not:
-```bash
-pandoc resume.md -t html5 -s -o resume.html --css reset.css --css resume.css --strip-comments
-```
-
-Alternatively:
+## Usage
+To build PDF or output HTML for debugging and what not:
 ```bash
 make [pdf|html]
 ```
-
-To export with date and commit short hash:
+To export with contact info and commit short hash:
 ```bash
 make print
 ```
 **Warning:** This will perform a `git restore` to clear out personal details from header.
 
-**TODO:**
+### TODO:
 - [ ] Migrate to weasyprint
 - [ ] Make build script.
 - [ ] Add responsiveness to CSS.
