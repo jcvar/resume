@@ -32,9 +32,4 @@ make print
 ```
 **Warning:** This will perform a `git restore` to clear out personal details from header.
 
-### TODO:
-- [ ] Migrate to weasyprint
-- [ ] Make build script.
-- [ ] Add responsiveness to CSS.
-
 [practypo]: https://practicaltypography.com/resumes.html
