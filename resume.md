@@ -6,14 +6,6 @@ margin-top:    25.4mm
 margin-bottom: 25.4mm
 # title: Juan Camilo Vargas
 ---
-# Juan Camilo Vargas
-
-[notpublic@email.com](mailto:notpublic@email.com)
-•
-[github.com/jcvar][github]
-•
-[+57 123 456 7890](tel:+571234567890)
-
 ## Skills
 
 ### Full-Stack Development
