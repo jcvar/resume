@@ -47,3 +47,17 @@
 - Participated in the creation of guidelines for DevOps processes within intern teams.
 - Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK.
 - Accelerated the adoption of agile methodologies in a consultancy team working for a national bank.
+
+== Education
+
+=== Universidad Nacional de Colombia
+
+/*
+==== Especialización en Gobierno Electrónico
+===== feb 2021 - dec 2021
+- Graduate student in Electronic Governance, early admission
+*/
+
+==== Ingeniería de Sistemas y Computación
+===== feb 2016 - jun 2021
+- Systems and Computing Engineering undergraduate degree. // 4.1 / 5.0 GPA

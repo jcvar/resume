@@ -6,20 +6,6 @@ margin-top:    25.4mm
 margin-bottom: 25.4mm
 # title: Juan Camilo Vargas
 ---
-## Education
-
-### Universidad Nacional de Colombia
-
-<!--
-#### Especialización en Gobierno Electrónico
-##### feb 2021 - dec 2021
-- Graduate student in Electronic Governance, early admission
--->
-
-#### Ingeniería de Sistemas y Computación
-##### feb 2016 - jun 2021
-- Systems and Computing Engineering undergraduate degree. <!-- 4.1 / 5.0 GPA -->
-
 <!--
 ## Programming Projects
 
