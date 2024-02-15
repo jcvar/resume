@@ -61,3 +61,18 @@
 ==== Ingeniería de Sistemas y Computación
 ===== feb 2016 - jun 2021
 - Systems and Computing Engineering undergraduate degree. // 4.1 / 5.0 GPA
+
+/*
+== Programming Projects
+
+=== [GraderUN][graderun]
+==== Microservices based application for school management (university coursework)
+===== jul - dec 2020
+- Developed part of the web frontend with Vue and part of its GraphQL API gateway
+- Built one of its underlying microservices in Rust
+
+=== BitBillet
+==== Custom built ticketing solution
+===== sep - oct 2018
+- Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
+*/

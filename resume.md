@@ -6,21 +6,6 @@ margin-top:    25.4mm
 margin-bottom: 25.4mm
 # title: Juan Camilo Vargas
 ---
-<!--
-## Programming Projects
-
-### [GraderUN][graderun]
-#### Microservices based application for school management (university coursework)
-##### jul - dec 2020
-- Developed part of the web frontend with Vue and part of its GraphQL API gateway
-- Built one of its underlying microservices in Rust
-
-### BitBillet
-#### Custom built ticketing solution
-##### sep - oct 2018
-- Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
--->
-
 ## Personal Projects
 
 ### GitHub Education
