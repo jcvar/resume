@@ -101,3 +101,10 @@
 compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public
 */
+
+#link("https://github.com/jcvar/resume")[DRAFT]
+
+// <!--- Links -->
+// [github]: https://github.com/jcvar "jcvar on GitHub"
+// [graderun]: https://github.com/graderun "GraderUN on GitHub"
+// [resume]: https://github.com/jcvar/resume "Résumé on GitHub"
