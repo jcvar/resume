@@ -1,3 +1,8 @@
+#set page(
+  "us-letter",
+  margin: 25.4mm
+)
+
 = Juan Camilo Vargas
 
 #link("mailto:notpublic@email.com")[notpublic\@email.com]
