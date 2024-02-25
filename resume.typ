@@ -49,7 +49,7 @@
 == Experience
 
 === Twilio
-==== Software Engineer, Phone Numbers Team
+_ Software Engineer, Phone Numbers Team _
 ===== nov 2021 - present
 - Collaborated in the Numbers API Gateway project, from prototype to release.
 - Enabled the migration of a business critical monolith to a microservice architecture.
@@ -57,7 +57,7 @@
 - Planned and executed performance, reliability, and endurance testing for production deployment.
 
 === IBM
-==== DevOps Engineer, Global Business Services
+_ DevOps Engineer, Global Business Services _
 ===== feb 2021 - oct 2021
 - Participated in the creation of guidelines for DevOps processes within intern teams.
 - Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK.
@@ -68,12 +68,12 @@
 === Universidad Nacional de Colombia
 
 /*
-==== Especialización en Gobierno Electrónico
+_ Especialización en Gobierno Electrónico _
 ===== feb 2021 - dec 2021
 - Graduate student in Electronic Governance, early admission
 */
 
-==== Ingeniería de Sistemas y Computación
+_ Ingeniería de Sistemas y Computación _
 ===== feb 2016 - jun 2021
 - Systems and Computing Engineering undergraduate degree. // 4.1 / 5.0 GPA
 
@@ -81,13 +81,13 @@
 == Programming Projects
 
 === [GraderUN][graderun]
-==== Microservices based application for school management (university coursework)
+_ Microservices based application for school management (university coursework) _
 ===== jul - dec 2020
 - Developed part of the web frontend with Vue and part of its GraphQL API gateway
 - Built one of its underlying microservices in Rust
 
 === BitBillet
-==== Custom built ticketing solution
+_ Custom built ticketing solution _
 ===== sep - oct 2018
 - Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
 */
@@ -95,14 +95,14 @@
 == Personal Projects
 
 === GitHub Education
-==== GitHub Campus Expert, spring 2021 batch
+_ GitHub Campus Expert, spring 2021 batch _
 ===== apr 2021 - present
 - Leadership program to support technical student communities.
 - Assistance in activities of the UNAL competitive programming student group.
 - GitHub Field Day LATAM 2022 team member, Hackcon X scholarship recipient.
 
 === The Insiders Collective
-==== Co-founder
+_ Co-founder _
 ===== jul 2014 - mar 2020
 - Online media community for live shows and music festival promoting.
 - Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
@@ -110,7 +110,7 @@
 
 /*
 === World Cube Association
-==== WCA Delegate, Colombia
+_ WCA Delegate, Colombia _
 ===== apr 2015 - apr 2017
 - Organize and manage local Speedcubing competitions and oversee their
 compliance with WCA regulations
