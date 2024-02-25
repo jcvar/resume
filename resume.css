@@ -5,12 +5,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,200&family=Spectral+SC&family=Spectral:ital,wght@0,400;0,600;1,400&display=block'); */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;1,200&family=Spectral+SC:wght@200;400&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap');
 
-/* Résumé sections, dates */
-h2, h5 {
-    font-family: 'Spectral SC', 'Spectral', serif;
-    font-weight: 200;
-}
-
 /* Item subtitle */
 h4, em {
     font-style: italic;
