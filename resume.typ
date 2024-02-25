@@ -7,6 +7,8 @@
   font: "Spectral",
 )
 
+#show heading.where(level: 1): set text(size: 2em, weight: 600)
+
 = Juan Camilo Vargas
 
 #link("mailto:notpublic@email.com")[notpublic\@email.com]
