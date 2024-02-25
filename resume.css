@@ -11,20 +11,6 @@ p:last-of-type {
     margin-top: 6em;
 }
 
-/* Links */
-a {
-    color: black;
-    text-decoration: none;
-}
-
-/* Contact details */
-p a {
-    font-family: 'IBM Plex Mono', monospace;
-    font-style: italic;
-    font-weight: 200;
-    line-height: 1.25;
-}
-
 /* List indentation */
 li {
     margin-left: 0.75em;

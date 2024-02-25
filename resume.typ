@@ -13,6 +13,8 @@
 #show heading.where(level: 2): set text(font: "Spectral SC", weight: 200)
 #show heading.where(level: 5): set text(font: "Spectral SC", weight: 200)
 
+#show link: set text(font: "IBM Plex Mono", style: "italic", weight: 200)
+
 = Juan Camilo Vargas
 
 #link("mailto:notpublic@email.com")[notpublic\@email.com]
