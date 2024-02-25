@@ -8,6 +8,7 @@
 )
 
 #show heading.where(level: 1): set text(size: 2em, weight: 600)
+#show heading.where(level: 3): set text(weight: 600)
 
 = Juan Camilo Vargas
 
