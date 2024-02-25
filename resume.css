@@ -11,18 +11,6 @@ p:last-of-type {
     margin-top: 6em;
 }
 
-/* List indentation */
-li {
-    margin-left: 0.75em;
-    text-indent: -0.75em;
-    line-height: 1.25em;
-}
-
-/* Custom bullets */
-li::before {
-    content: '• ';
-}
-
 /* * LAYOUT * */
 /* Name, contact details */
 h1, p:first-of-type, p:last-of-type {
