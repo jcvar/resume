@@ -3,6 +3,10 @@
   margin: 25.4mm
 )
 
+#set text(
+  font: "Spectral",
+)
+
 = Juan Camilo Vargas
 
 #link("mailto:notpublic@email.com")[notpublic\@email.com]

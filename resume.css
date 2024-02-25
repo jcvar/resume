@@ -5,12 +5,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,200&family=Spectral+SC&family=Spectral:ital,wght@0,400;0,600;1,400&display=block'); */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;1,200&family=Spectral+SC:wght@200;400&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap');
 
-/* Default font */
-body {
-    font-family: 'Spectral', serif;
-    font-weight: 400;
-}
-
 /* Name */
 h1 {
     font-size: 2em;
