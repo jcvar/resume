@@ -7,7 +7,7 @@
   font: "Spectral",
 )
 
-#show heading.where(level: 1): set text(size: 2em, weight: 600)
+#show heading.where(level: 1): set text(weight: 600)
 #show heading.where(level: 3): set text(weight: 600)
 
 #show heading.where(level: 2): set text(font: "Spectral SC", weight: 200)
@@ -15,6 +15,7 @@
 
 #show link: set text(font: "IBM Plex Mono", style: "italic", weight: 200)
 
+#align(center)[
 = Juan Camilo Vargas
 
 #link("mailto:notpublic@email.com")[notpublic\@email.com]
@@ -22,6 +23,7 @@
 #link("https://github.com/jcvar")[github.com/jcvar]
 •
 #link("tel:+571234567890")[+57 123 456 7890]
+]
 
 == Skills
 
@@ -119,7 +121,9 @@ compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public
 */
 
+#align(center)[
 #link("https://github.com/jcvar/resume")[DRAFT]
+] // TODO: page footer
 
 // <!--- Links -->
 // [github]: https://github.com/jcvar "jcvar on GitHub"
