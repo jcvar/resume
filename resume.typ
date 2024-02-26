@@ -7,11 +7,16 @@
   font: "Spectral",
 )
 
+#let date(d) = [
+  #set text(font: "Spectral SC", weight: 200)
+  #h(1fr)
+  #d
+]
+
 #show heading.where(level: 1): set text(weight: 600)
 #show heading.where(level: 3): set text(weight: 600)
 
 #show heading.where(level: 2): set text(font: "Spectral SC", weight: 200)
-#show heading.where(level: 5): set text(font: "Spectral SC", weight: 200)
 
 #show link: set text(font: "IBM Plex Mono", style: "italic", weight: 200)
 
@@ -54,7 +59,7 @@
 
 === Twilio
 _ Software Engineer, Phone Numbers Team _
-===== nov 2021 - present
+#date[nov 2021 - present]
 - Collaborated in the Numbers API Gateway project, from prototype to release.
 - Enabled the migration of a business critical monolith to a microservice architecture.
 - Delivered core features for request routing and service monitoring.
@@ -62,7 +67,7 @@ _ Software Engineer, Phone Numbers Team _
 
 === IBM
 _ DevOps Engineer, Global Business Services _
-===== feb 2021 - oct 2021
+#date[feb 2021 - oct 2021]
 - Participated in the creation of guidelines for DevOps processes within intern teams.
 - Developed a logging solution for audit messages generated in IBM App Connect Enterprise with ELK.
 - Accelerated the adoption of agile methodologies in a consultancy team working for a national bank.
@@ -73,12 +78,12 @@ _ DevOps Engineer, Global Business Services _
 
 /*
 _ Especialización en Gobierno Electrónico _
-===== feb 2021 - dec 2021
+#date[feb 2021 - dec 2021]
 - Graduate student in Electronic Governance, early admission
 */
 
 _ Ingeniería de Sistemas y Computación _
-===== feb 2016 - jun 2021
+#date[feb 2016 - jun 2021]
 - Systems and Computing Engineering undergraduate degree. // 4.1 / 5.0 GPA
 
 /*
@@ -86,13 +91,13 @@ _ Ingeniería de Sistemas y Computación _
 
 === [GraderUN][graderun]
 _ Microservices based application for school management (university coursework) _
-===== jul - dec 2020
+#date[jul - dec 2020]
 - Developed part of the web frontend with Vue and part of its GraphQL API gateway
 - Built one of its underlying microservices in Rust
 
 === BitBillet
 _ Custom built ticketing solution _
-===== sep - oct 2018
+#date[sep - oct 2018]
 - Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
 */
 
@@ -100,14 +105,14 @@ _ Custom built ticketing solution _
 
 === GitHub Education
 _ GitHub Campus Expert, spring 2021 batch _
-===== apr 2021 - present
+#date[apr 2021 - present]
 - Leadership program to support technical student communities.
 - Assistance in activities of the UNAL competitive programming student group.
 - GitHub Field Day LATAM 2022 team member, Hackcon X scholarship recipient.
 
 === The Insiders Collective
 _ Co-founder _
-===== jul 2014 - mar 2020
+#date[jul 2014 - mar 2020]
 - Online media community for live shows and music festival promoting.
 - Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
 - Community management, BTL activations, copywriting.
@@ -115,7 +120,7 @@ _ Co-founder _
 /*
 === World Cube Association
 _ WCA Delegate, Colombia _
-===== apr 2015 - apr 2017
+#date[apr 2015 - apr 2017]
 - Organize and manage local Speedcubing competitions and oversee their
 compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public

@@ -4,9 +4,3 @@
 /* @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:200i|Spectral+SC|Spectral:400,600,400i&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,200&family=Spectral+SC&family=Spectral:ital,wght@0,400;0,600;1,400&display=block'); */
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;1,200&family=Spectral+SC:wght@200;400&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap');
-
-/* Item duration */
-h5 {
-    margin-top: -1em;
-    text-align: right;
-}
