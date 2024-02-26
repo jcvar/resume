@@ -1,6 +1,11 @@
 #set page(
   "us-letter",
-  margin: 25.4mm
+  margin: 25.4mm,
+  footer: [
+    #set align(center)
+    #set text(0.5em)
+    #link("https://github.com/jcvar/resume")[DRAFT]
+  ],
 )
 
 #set text(
@@ -126,11 +131,6 @@ compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public
 */
 
-#align(center)[
-#link("https://github.com/jcvar/resume")[DRAFT]
-] // TODO: page footer
-
 // <!--- Links -->
 // [github]: https://github.com/jcvar "jcvar on GitHub"
 // [graderun]: https://github.com/graderun "GraderUN on GitHub"
-// [resume]: https://github.com/jcvar/resume "Résumé on GitHub"
