@@ -81,30 +81,9 @@ _ DevOps Engineer, Global Business Services _
 
 === Universidad Nacional de Colombia
 
-/*
-_ Especialización en Gobierno Electrónico _
-#date[feb 2021 - dec 2021]
-- Graduate student in Electronic Governance, early admission
-*/
-
 _ Ingeniería de Sistemas y Computación _
 #date[feb 2016 - jun 2021]
 - Systems and Computing Engineering undergraduate degree. // 4.1 / 5.0 GPA
-
-/*
-== Programming Projects
-
-=== [GraderUN][graderun]
-_ Microservices based application for school management (university coursework) _
-#date[jul - dec 2020]
-- Developed part of the web frontend with Vue and part of its GraphQL API gateway
-- Built one of its underlying microservices in Rust
-
-=== BitBillet
-_ Custom built ticketing solution _
-#date[sep - oct 2018]
-- Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
-*/
 
 == Personal Projects
 
@@ -129,6 +108,27 @@ _ WCA Delegate, Colombia _
 - Organize and manage local Speedcubing competitions and oversee their
 compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public
+*/
+
+/*
+_ Especialización en Gobierno Electrónico _
+#date[feb 2021 - dec 2021]
+- Graduate student in Electronic Governance, early admission
+*/
+
+/*
+== Programming Projects
+
+=== [GraderUN][graderun]
+_ Microservices based application for school management (university coursework) _
+#date[jul - dec 2020]
+- Developed part of the web frontend with Vue and part of its GraphQL API gateway
+- Built one of its underlying microservices in Rust
+
+=== BitBillet
+_ Custom built ticketing solution _
+#date[sep - oct 2018]
+- Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
 */
 
 // <!--- Links -->
