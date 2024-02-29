@@ -15,7 +15,7 @@
 ]
 
 #let date(d) = {
-  set text(font: "Spectral SC", weight: 200)
+  set text(weight: 200)
   h(1fr)
-  d
+  smallcaps(d)
 }
