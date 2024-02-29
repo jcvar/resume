@@ -1,8 +1,8 @@
-#let template(c) = [
+#let template(footer: none, c) = [
   #set page(
     "us-letter",
     margin: 25.4mm,
-    footer: align(center, text(0.5em, link("https://github.com/jcvar/resume")[DRAFT])),
+    footer: align(center, text(0.5em, footer)),
   )
 
   #set text(font: "Spectral")

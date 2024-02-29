@@ -1,5 +1,5 @@
 #import "template.typ": *
-#show: template
+#show: template.with(footer: link("https://github.com/jcvar/resume")[DRAFT])
 
 #align(center)[
 = Juan Camilo Vargas
