@@ -14,8 +14,4 @@
   #c
 ]
 
-#let date(d) = {
-  set text(weight: 200)
-  h(1fr)
-  smallcaps(d)
-}
+#let date(d) = h(1fr) + text(weight: 200, smallcaps(d))
