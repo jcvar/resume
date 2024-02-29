@@ -14,8 +14,8 @@
   #c
 ]
 
-#let date(d) = [
-  #set text(font: "Spectral SC", weight: 200)
-  #h(1fr)
-  #d
-]
+#let date(d) = {
+  set text(font: "Spectral SC", weight: 200)
+  h(1fr)
+  d
+}
