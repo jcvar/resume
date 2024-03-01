@@ -56,7 +56,6 @@ _ DevOps Engineer, Global Business Services _
 == Education
 
 === Universidad Nacional de Colombia
-
 _ Ingeniería de Sistemas y Computación _
 #date[feb 2016 - jun 2021]
 - Systems and Computing Engineering undergraduate degree. // 4.1 / 5.0 GPA
