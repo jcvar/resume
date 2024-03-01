@@ -8,9 +8,11 @@
   set text(font: "Spectral")
 
   show heading.where(level: 1): set text(weight: 600)
-  show heading.where(level: 3): set text(weight: 600)
   show heading.where(level: 2): set text(font: "Spectral SC", weight: 200)
+  show heading.where(level: 3): set text(weight: 600)
+
   show link: set text(font: "IBM Plex Mono", style: "italic", weight: 200)
+
   c
 }
 
