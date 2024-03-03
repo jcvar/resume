@@ -5,7 +5,8 @@
     footer: align(center, text(0.5em, footer)),
   )
 
-  set text(font: "Spectral")
+  let sz = 10pt;
+  set text(font: "Spectral", size: sz);
 
   show heading.where(level: 1): set text(weight: 600)
   show heading.where(level: 2): set text(font: "Spectral SC", weight: 200)
