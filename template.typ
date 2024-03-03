@@ -7,8 +7,11 @@
 
   let sz = 10pt;
   set text(font: "Spectral", size: sz);
+  set block(spacing: 0.2em)
 
-  show heading.where(level: 1): set text(weight: 600)
+  show heading.where(level: 1): h => {
+    block(spacing: 0.5em, text(weight: 600, size: 2 * sz, h.body))
+  }
   show heading.where(level: 2): set text(font: "Spectral SC", weight: 200)
   show heading.where(level: 3): set text(weight: 600)
 
