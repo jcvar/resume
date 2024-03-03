@@ -15,7 +15,9 @@
   show heading.where(level: 2): h => {
     block(spacing: 1em, text(weight: 200, size: sz, smallcaps(h.body)))
   }
-  show heading.where(level: 3): set text(weight: 600)
+  show heading.where(level: 3): h => {
+    block(above: 1em, below: 0.5em, text(weight: 600, size: sz, h.body))
+  }
 
   show link: set text(font: "IBM Plex Mono", style: "italic", weight: 200)
 
