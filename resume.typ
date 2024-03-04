@@ -84,13 +84,11 @@ _ WCA Delegate, Colombia _
 compliance with WCA regulations
 - Remote reporting, event planning, mediation with competitors and general public
 */
-
 /*
 _ Especialización en Gobierno Electrónico _
 #date[feb 2021 - dec 2021]
 - Graduate student in Electronic Governance, early admission
 */
-
 /*
 == Programming Projects
 
@@ -105,7 +103,6 @@ _ Custom built ticketing solution _
 #date[sep - oct 2018]
 - Developed a Node.js application to manage ticket check-in for a 150+ attendee concert
 */
-
 // <!--- Links -->
 // [github]: https://github.com/jcvar "jcvar on GitHub"
 // [graderun]: https://github.com/graderun "GraderUN on GitHub"
