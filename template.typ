@@ -7,7 +7,7 @@
 
   let sz = 10pt;
   set text(font: "Spectral", size: sz);
-  set block(spacing: 0.2em)
+  set block(spacing: 0.5em)
   set par(leading: 0.5em)
 
   show heading.where(level: 1): h => {
