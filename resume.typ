@@ -40,7 +40,7 @@
 
 === Nubank
 _Software Engineer, Credit Card Foundations_
-#date[sept 2023 - present]
+#date[sep 2023 - present]
 - Delivered new features and cross service refactoring initiatives within an event-driven platform.
 - Enchanced observability for improvements in compliance and operating efficiency.
 - Designed and implemented end-to-end tests for workflow validation across the team's domain.
@@ -48,7 +48,7 @@ _Software Engineer, Credit Card Foundations_
 
 === Twilio
 _Software Engineer, Phone Numbers Team_
-#date[nov 2021 - sept 2023]
+#date[nov 2021 - sep 2023]
 - Collaborated in the Numbers API Gateway project, from prototype to release.
 - Enabled the migration of a business critical monolith to a microservice architecture.
 - Delivered core features for request routing and service monitoring.
