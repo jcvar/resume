@@ -4,11 +4,11 @@
 #align(center)[
 = Juan Camilo Vargas
 
-#link("mailto:notpublic@email.com")[notpublic\@email.com]
+#link("mailto:notpublic@email.com", "notpublic@email.com")
 •
-#link("https://github.com/jcvar")[github.com/jcvar]
+#link("https://github.com/jcvar", "github.com/jcvar")
 •
-#link("tel:+571234567890")[+57 123 456 7890]
+#link("tel:+571234567890", "+57 123 456 7890")
 ]
 
 == Skills
