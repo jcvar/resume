@@ -77,12 +77,14 @@ _GitHub Campus Expert, spring 2021 batch_
 - Assistance in activities of the UNAL competitive programming student group.
 - GitHub Field Day LATAM 2022 team member, Hackcon X scholarship recipient.
 
+/*
 === The Insiders Collective
 _Co-founder_
 #date[jul 2014 - mar 2020]
 - Online media community for live shows and music festival promoting.
 - Past coverage includes Festival Estéreo Picnic, Melt Festival, Lollapalooza Paris.
 - Community management, BTL activations, copywriting.
+*/
 
 /*
 === World Cube Association
