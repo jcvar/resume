@@ -14,8 +14,8 @@
 == Skills
 
 === Full-Stack Development
-- Backend development on web server frameworks.
-  _Deno, Node.js, Rocket.rs, Spring Boot._
+- Backend development with general purpose languages.
+  _JavaScript, Java, Clojure._
 - Data modeling on SQL and document oriented databases.
   _MySQL, Postgres, MongoDB, Cloud Firestore._
 - Frontend development with modern JavaScript frameworks.
