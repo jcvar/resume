@@ -41,12 +41,12 @@
 == Experience
 
 === Nubank
-_Software Engineer, Credit Card Foundations_
+_Software Engineer, Credit Card Core Platforms_
 #date[sep 2023 - present]
-- Delivered new features and cross service refactoring initiatives within an event-driven platform.
-- Enchanced observability for improvements in compliance and operating efficiency.
+- Delivered new features for a customer product with over 80M users in 3 countries.
+- Solved functionality and consistency issues within an event-driven platform.
 - Designed and implemented end-to-end tests for workflow validation across the team's domain.
-- Provided L3 support to internal clients and customer generated tickets.
+- Automated diagnostics and mitigation processes to scale up L3 support throughput.
 
 === Twilio
 _Software Engineer, Phone Numbers Team_
