@@ -15,24 +15,26 @@
 
 === Full-Stack Development
 - Backend development with general purpose languages.
-  _JavaScript, Java, Clojure._
+  _JavaScript, Java, Clojure, Go._
 - Data modeling on SQL and document oriented databases.
   _MySQL, Postgres, MongoDB, Cloud Firestore._
 - Frontend development with modern JavaScript frameworks.
   _Svelte, Vue, React._
-- Mobile app development for Android and iOS with Flutter.
 
 === DevOps
-- Deployment of containerized applications on public cloud platforms.
+- Management of containerized applications on public cloud platforms.
   _Docker, Kubernetes, AWS, GCP._
+- Deployment of serverless functions and SSR applications.
+  _Cloudflare Workers, Deno Deploy._
 - Design of continuous integration and deployment pipelines.
   _Jenkins, Buildkite, Ansible._
-- Knowledge of Linux development and command line applications.
-  _Git, Bash, Make, Vim._
+// - Knowledge of Linux development and command line applications.
+//   _Git, Bash, Make, Vim._
 
 === Other Skills
 - Proficiency in Python, experience with Pandas and TensorFlow.
-- Graphics and interaction design with p5.js and Processing.
+// - Graphics and interaction design with p5.js and Processing.
+- Mobile app development for Android and iOS with Flutter.
 - Electronics, Arduino, and microcontroller programming with C.
 - Fluent in English and French, native Spanish speaker.
 
