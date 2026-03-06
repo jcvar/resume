@@ -1,6 +1,9 @@
 #import "template.typ": *
+
 #let contact = toml("contact.toml")
-#show: template.with(footer: link("https://github.com/jcvar/resume")[DRAFT])
+#let hash = sys.inputs.at("hash", default: "DRAFT")
+
+#show: template.with(footer: link("https://github.com/jcvar/resume", hash))
 
 #align(center)[
 = Juan Camilo Vargas

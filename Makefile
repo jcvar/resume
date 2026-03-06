@@ -1,6 +1,2 @@
-print: printhash := $(shell git log -1 --format=%h)
-
 print:
-	sed -I '' "s/\[DRAFT\]/[${printhash}]/" resume.typ
-	typst compile resume.typ
-	git restore resume.typ
+	typst compile resume.typ --input hash=$$(git log -1 --format=%h)
