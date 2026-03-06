@@ -1,14 +1,15 @@
 #import "template.typ": *
+#let contact = toml("contact.toml")
 #show: template.with(footer: link("https://github.com/jcvar/resume")[DRAFT])
 
 #align(center)[
 = Juan Camilo Vargas
 
-#link("mailto:notpublic@email.com", "notpublic@email.com")
+#link("mailto:" + contact.mail)
 •
 #link("https://github.com/jcvar", "github.com/jcvar")
 •
-#link("tel:+571234567890", "+57 123 456 7890")
+#link("tel:" + contact.tel)
 ]
 
 == Skills
