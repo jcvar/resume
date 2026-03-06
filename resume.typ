@@ -1,4 +1,4 @@
-#import "template.typ": *
+#import "template.typ": date, template
 
 #let contact = toml("contact.toml")
 #let hash = sys.inputs.at("hash", default: "DRAFT")
@@ -6,13 +6,13 @@
 #show: template.with(footer: link("https://github.com/jcvar/resume", hash))
 
 #align(center)[
-= Juan Camilo Vargas
+  = Juan Camilo Vargas
 
-#link("mailto:" + contact.mail)
-•
-#link("https://github.com/jcvar", "github.com/jcvar")
-•
-#link("tel:" + contact.tel)
+  #link("mailto:" + contact.mail)
+  •
+  #link("https://github.com/jcvar")[github.com/jcvar]
+  •
+  #link("tel:" + contact.tel)
 ]
 
 == Skills
