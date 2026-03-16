@@ -1,9 +1,9 @@
 # Résumé
 
-Simple markdown résumé template, inspired by [Butterick's Practical Typography][practypo].
+This is my résumé. Built as a Typst template, inspired by [Butterick's Practical Typography][practypo].
 
-This template uses markdown headings to select and style the different attributes
-of each item. The details can be found in `resume.css`.
+This template uses headings to style the different attributes of each item.
+The details can be found in `template.typ`.
 
 ### Fonts:
 - Spectral
