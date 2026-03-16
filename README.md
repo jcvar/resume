@@ -10,8 +10,6 @@ The details can be found in `template.typ`.
 - Spectral SC
 - IBM Plex Mono
 
-Fonts are loaded directly from Google Fonts, usage of local fonts has a small
-bug in the weight selection.
 To install with brew:
 ```bash
 brew install font-spectral font-ibm-plex
