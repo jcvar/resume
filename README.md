@@ -16,14 +16,13 @@ brew install font-spectral font-ibm-plex
 ```
 
 ## Usage
-To build PDF or output HTML for debugging and what not:
+Use `typst` to draft and preview changes:
 ```bash
-make [pdf|html]
+typst watch resume.typ
 ```
-To export with contact info and commit short hash:
+To export with contact info (from `contact.toml`) and commit short hash:
 ```bash
 make print
 ```
-**Warning:** This will perform a `git restore` to clear out personal details from header.
 
 [practypo]: https://practicaltypography.com/resumes.html
